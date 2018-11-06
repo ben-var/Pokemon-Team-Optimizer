@@ -8,6 +8,8 @@ are the primary methods of suggesting a pokemon. The recommendation engine also 
 NOTE: The program assumes you are battling in the tier of your highest tiered pokemon. Currently only Generation I pokemon are supported
 with the addition of steel, fairy, and dark types.
 
+![Alt text](PROGRAM_PREVIEW_DEFAULTBESTTEAM.PNG?raw=true "Title")
+
 Offensive strategy is left up to the pokemon trainer. :-)
 
 HOW TO USE THE PROGRAM:
