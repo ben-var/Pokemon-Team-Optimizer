@@ -11,7 +11,7 @@ with the addition of steel, fairy, and dark types.
 Offensive strategy is left up to the pokemon trainer. :-)
 
 <p align="center">
-  <img src="PROGRAM_PREVIEW_DEFAULTBESTTEAM.PNG" width="50%" title="Prototype GUI Preview">
+  <img style="padding-left: 10%" src="PROGRAM_PREVIEW_DEFAULTBESTTEAM.PNG" width="75%" title="Prototype GUI Preview">
 </p>
 
 HOW TO USE THE PROGRAM:
