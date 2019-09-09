@@ -6,7 +6,7 @@ package edu.miracosta.cs113;
  * 		and keeping track of the teams balance from its
  * 		weaknesses and resistances.
  * 
- * Authors: Michael McDermott, Ben Vargas, 
+ * Authors: Michael McDermott, Ben Vargas
  */
 import java.util.ArrayList;
 import java.util.HashMap;
