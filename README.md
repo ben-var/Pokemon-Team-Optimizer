@@ -1,4 +1,4 @@
-# POKEMON TEAM BUILDER
+# POKEMON TEAM OPTIMIZER
 
 This program will suggest additions to a pokemon team based on your current team. Currently, tier, battle style, and type resistances
 are the primary methods of suggesting a pokemon. The recommendation engine also keeps in mind the types already in your team. 
