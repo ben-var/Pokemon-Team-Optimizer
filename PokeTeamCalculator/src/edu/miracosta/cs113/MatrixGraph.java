@@ -3,7 +3,7 @@ package edu.miracosta.cs113;
  * A matrix graph should be more efficient if the graph were to be undirected 
  * with a lot of choices for pokemon it could become dense quickly.
  * 
- * Author: Michael McDermott
+ * Author: Michael McDermott and Ben Vargas
  * 
  */
 import java.util.*;
